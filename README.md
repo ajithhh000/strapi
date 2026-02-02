@@ -33,4 +33,3 @@ Before running this project, ensure you have:
 
 📹 **Full walkthrough available here:**  
 👉 [Strapi Internship Task Demo on Loom](https://www.loom.com/share/1766a23d25c94162b2aa668318d29d3a)
-```
